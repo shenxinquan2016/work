@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jul 05 14:56:27 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=castle_fat.jar
+manifest.mergeall=true
+manifest.mainclass=castle.Castle
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
